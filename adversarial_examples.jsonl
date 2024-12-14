@@ -1,0 +1,43 @@
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "The women are actually fighting over a package.", "label": 2}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "The women are celebrating their graduation.", "label": 1}
+{"premise": "Two women are embracing while holding to go packages.", "hypothesis": "Two women are embracing toys.", "label": 2}
+{"premise": "Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.", "hypothesis": "The children are cleaning up after painting the wall.", "label": 1}
+{"premise": "Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.", "hypothesis": "Two young children in jerseys are 9 and 2.", "label": 2}
+{"premise": "Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.", "hypothesis": "Two kids are on wooden steps near a bathroom sink.", "label": 0}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man sells books to customers in a library.", "label": 2}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man sells donuts while discussing the exhibition event.", "label": 1}
+{"premise": "A man selling donuts to a customer during a world exhibition event held in the city of Angeles", "hypothesis": "A man sells donuts to a customer at an event.", "label": 0}
+{"premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.", "hypothesis": "The boys are preparing to play football in a stadium.", "label": 1}
+{"premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.", "hypothesis": "The boys are playing basketball in a gym.", "label": 2}
+{"premise": "Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.", "hypothesis": "Two boys are playing a game while wearing uniforms.", "label": 0}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man admires the geometric designs on a garage.", "label": 1}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man in a blue shirt standing in front of a garage-like structure is an architect", "label": 2}
+{"premise": "A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.", "hypothesis": "A man in a blue shirt is standing.", "label": 0}
+{"premise": "At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.", "hypothesis": "No crowd is visible near the dragon costume.", "label": 2}
+{"premise": "At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.", "hypothesis": "A person in a dragon costume confronts the camera at an event.", "label": 0}
+{"premise": "A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him.", "hypothesis": "The man in the green jersey does not fall.", "label": 1}
+{"premise": "A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him.", "hypothesis": "The two men are gracefully skating together.", "label": 2}
+{"premise": "A group of onlookers glance at a person doing a strange trick on her head.", "hypothesis": "The person balancing on their head is not being watched.", "label": 2}
+{"premise": "A group of onlookers glance at a person doing a strange trick on her head.", "hypothesis": "Onlookers glance at a person doing a trick.", "label": 0}
+{"premise": "A taxi SUV drives past an urban construction site, as a man walks down the street in the other direction.", "hypothesis": "The man and the SUV are headed in the same direction.", "label": 2}
+{"premise": "A taxi SUV drives past an urban construction site, as a man walks down the street in the other direction.", "hypothesis": "A taxi SUV drives by a construction site as a man walks.", "label": 0}
+{"premise": "A taxi SUV drives past an urban construction site, as a man walks down the street in the other direction.", "hypothesis": "A taxi SUV drives past an urban construction site, as a man walks down the street in a similar direction.", "label": 2}
+{"premise": "A shirtless man is singing into a microphone while a woman next to him plays an accordion.", "hypothesis": "The shirtless man and the woman are not performing together.", "label": 2}
+{"premise": "A shirtless man is singing into a microphone while a woman next to him plays an accordion.", "hypothesis": "A shirtless man is performing with someone playing an accordion.", "label": 0}
+{"premise": "Two black little boys hanging over an upside down bicycle, one examining the pedal.", "hypothesis": "The boys are not looking at the bicycle.", "label": 2}
+{"premise": "Two black little boys hanging over an upside down bicycle, one examining the pedal.", "hypothesis": "Two boys examine an upside-down bike pedal.", "label": 0}
+{"premise": "A brown a dog and a black dog in the edge of the ocean with a wave under them boats are on the water in the background.", "hypothesis": "The black and brown dogs are not near the ocean.", "label": 2}
+{"premise": "A brown a dog and a black dog in the edge of the ocean with a wave under them boats are on the water in the background.", "hypothesis": "The dogs are on the shore while boats are in the background.", "label": 1}
+{"premise": "A group of people prepare hot air balloons for takeoff.", "hypothesis": "No hot air balloons are visible on the ground.", "label": 2}
+{"premise": "A group of people prepare hot air balloons for takeoff.", "hypothesis": "A group prepares hot air balloons for storage.", "label": 2}
+{"premise": "A group of young people with instruments are on stage.", "hypothesis": "The people on stage are not playing music.", "label": 2}
+{"premise": "A group of young people with instruments are on stage.", "hypothesis": "A group of young people with instruments performs on stage.", "label": 0}
+{"premise": "A young boy with black hair is holding onto a gun which is secured to a vehicle which is being driven by a young man who is wearing a bright pink shirt.", "hypothesis": "The young boy is running away from the vehicle.", "label": 2}
+{"premise": "A young boy with black hair is holding onto a gun which is secured to a vehicle which is being driven by a young man who is wearing a bright pink shirt.", "hypothesis": "A young boy with black hair holds a gun attached to a vehicle.", "label": 0}
+{"premise": "Colorfully dressed people walk down the center of the road, with onlookers behind a barricade.", "hypothesis": "The people on the road are not colorfully dressed.", "label": 2}
+{"premise": "Colorfully dressed people walk down the center of the road, with onlookers behind a barricade.", "hypothesis": "Colorfully dressed people walk down the road past a barricade.", "label": 0}
+{"premise": "Three young boys one is holding a camera and another is holding a green toy all are wearing t-shirt and smiling.", "hypothesis": "None of the boys are holding anything.", "label": 2}
+{"premise": "Three young boys one is holding a camera and another is holding a green toy all are wearing t-shirt and smiling.", "hypothesis": "Three boys are smiling and not holding objects.", "label": 0}
+{"premise": "A man and a woman are looking at produce on display.", "hypothesis": "The produce is not on display on the newspaper but is displayed on the table.", "label": 1}
+{"premise": "A man and a woman are looking at produce on display.", "hypothesis": "A man and a woman observe produce on display.", "label": 0}
+{"premise": "People are throwing tomatoes at each other.", "hypothesis": "Tomatoes are throwing people at each other.", "label": 2}

@@ -3,6 +3,7 @@
 Project by Kaj Bostrom, Jifan Chen, and Greg Durrett. Code by Kaj Bostrom and Jifan Chen.
 
 ## Getting Started
+
 You'll need Python >= 3.6 to run the code in this repo.
 
 First, clone the repository:
@@ -23,6 +24,7 @@ To make sure pip is installing packages for the right Python version, run `pip -
 and check that the path it reports is for the right Python interpreter.
 
 ## Training and evaluating a model
+
 To train an ELECTRA-small model on the SNLI natural language inference dataset, you can run the following command:
 
 `python3 run.py --do_train --task nli --dataset snli --output_dir ./trained_model/`
@@ -30,7 +32,7 @@ To train an ELECTRA-small model on the SNLI natural language inference dataset, 
 Checkpoints will be written to sub-folders of the `trained_model` output directory.
 To evaluate the final trained model on the SNLI dev set, you can use
 
-`python3 run.py --do_eval --task nli --dataset snli --model ./trained_model/ --output_dir ./eval_output/`
+`python3 run.py --do_eval --task nli --dataset snli --model ./anli_model/ --output_dir ./eval_output_anli/`
 
 To prevent `run.py` from trying to use a GPU for training, pass the argument `--no_cuda`.
 
@@ -46,11 +48,13 @@ An ELECTRA-small based NLI model trained on SNLI for 3 epochs (e.g. with the com
 An ELECTRA-small based QA model trained on SQuAD for 3 epochs should achieve around 78 exact match score and 86 F1 score.
 
 ## Working with datasets
+
 This repo uses [Huggingface Datasets](https://huggingface.co/docs/datasets/) to load data.
 The Dataset objects loaded by this module can be filtered and updated easily using the `Dataset.filter` and `Dataset.map` methods.
 For more information on working with datasets loaded as HF Dataset objects, see [this page](https://huggingface.co/docs/datasets/process.html).
 
 ## Virtual environments
+
 Python 3 supports virtual environments with the `venv` module. These will let you select a particular Python interpreter
 to be the default (so that you can run it with `python`) and install libraries only for a particular project.
 To set up a virtual environment, use the following command:
